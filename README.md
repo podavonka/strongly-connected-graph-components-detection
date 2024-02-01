@@ -37,7 +37,7 @@ The measurements were performed against the code in the 1411f729 commit, on a 4-
 
 The results are shown in the graph:
 
-![](/measurements/algorithms_measurements.png)
+![algorithms_measurements](https://github.com/podavonka/strongly-connected-graph-components-detection/assets/145363658/2c2d5028-675e-4b5c-a40b-155ee891d801)
 
 For smaller graphs, both algorithms offer comparable performance. However, when dealing with large and complex graphs, choosing Tarjan's algorithm can significantly reduce computation time due to its single-pass nature.
 
